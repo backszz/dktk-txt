@@ -2,6 +2,6 @@
 "links":{
 "shopCenter":"https://h5.tiktok-buiness.top/?",
 "goodsList":"https://h5.tiktok-buiness.top/pages/product/product?",
-"orderList":"https://h5.tiktok-buiness.top/pages/order/order?",
+"orderList":"https://h5.tiktok-buiness.top/pages/order/order?"
   }
 }
